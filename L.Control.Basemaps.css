@@ -5,10 +5,10 @@
     display: none;
 }
 .basemaps.closed .basemap.alt {
-    display: inline-block;
-}
-.basemaps.closed .basemap.alt h4 {
     display: none;
+}
+.basemaps.closed .active {
+    display: inline-block;
 }
 
 .basemap {
